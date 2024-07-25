@@ -1,4 +1,4 @@
-El objetivo del presente trabajo es construir un modelo predictivo de aprendizaje supervisado para detectar clientes de Beta Bank en riesgo de cancelar sus cuentas.
+Este es un modelo predictivo de aprendizaje supervisado para detectar clientes de Beta Bank en riesgo de cancelar sus cuentas.
 
 Se examina una base de datos de clientes actuales o pasados que contiene identificador de cliente, apellido, edad, género, país, balance, número de productos, 
 score crediticio, salario estimado, si tiene una tarjeta de crédito, si es cliente activo y si ha cancelado su cuenta. 
